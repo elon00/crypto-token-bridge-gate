@@ -1,5 +1,5 @@
-﻿[package]
-name = "cbdcbridge-gate"
+[package]
+name = "crypto-token-bridge-gate"
 version = "1.0.0"
 edition = "2021"
 
